@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "ie-data-bridge",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

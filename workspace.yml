@@ -4,6 +4,8 @@ info:
   type: workspace
 
 collections:
+  - name: "ie-data-bridge"
+    path: "collections\\ie-data-bridge"
 
 specs:
 
